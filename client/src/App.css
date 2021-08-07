@@ -1,0 +1,24 @@
+.launches {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.launches button {
+  display: flex;
+  align-items: center;
+  height: 2rem;
+}
+
+.rocket-info {
+  display: flex;
+}
+
+.rocket-name {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.rocket-image {
+  width: 100%;
+}
